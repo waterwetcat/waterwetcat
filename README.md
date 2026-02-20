@@ -7,7 +7,7 @@
 
 ### ⌨️ My current skills are ...
 *  **Core:** C, C++, C#
-*  **Familiar with:** HTML
+*  **Familiar with:** HTML, SQL
 *  **Getting comfortable with:** Linux
 
 ### 📖 What I want to learn ...
